@@ -114,6 +114,7 @@ Then you can download any of the required tools to bootstrap your environment:
 ```sh
 $ make bootstrap
 ```
+#### MongoDB Atlas Database Plugin
 
 To compile a development version of these plugins, run `make` or `make dev`.
 This will put the plugin binaries in the `bin` and `$GOPATH/bin` folders. `dev`
