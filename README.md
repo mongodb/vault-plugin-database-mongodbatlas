@@ -185,7 +185,6 @@ account for whatever backend you're testing.
 Before running the acceptance tests export the following environment variables:
 
 - VAULT_ACC - Set to `1` to run the acceptance tests
-- ATLAS_ORGANIZATION_ID - Your Organization ID
 - ATLAS_PUBLIC_KEY and ATLAS_PRIVATE_KEY - Your Public and Private key with the correct permissions to run the tests
 - ATLAS_PROJECT_ID - Your Project ID
 
