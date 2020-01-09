@@ -101,8 +101,8 @@ Clone this repository:
 
 ```
 
-mkdir $GOPATH/src/github.com/hashicorp/vault-plugin-database-mongodbatlas`
-cd $GOPATH/src/github.com/hashicorp/
+mkdir $GOPATH/src/github.com/mongodb/vault-plugin-database-mongodbatlas`
+cd $GOPATH/src/github.com/mongodb/
 git clone git@github.com:mongodb/vault-plugin-database-mongodbatlas.git
 go mod download
 
