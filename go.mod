@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault-plugin-database-mongodbatlas
+module github.com/mongodb/vault-plugin-database-mongodbatlas
 
 go 1.12
 
