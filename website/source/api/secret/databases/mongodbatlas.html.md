@@ -41,7 +41,7 @@ has a number of parameters to further configure a connection.
   "allowed_roles": "readonly",
   "public_key": "aPublicKey",
   "private_key": "aPrivateKey",
-  "project_id": "aProjectID",
+  "project_id": "aProjectID"
 }
 ```
 
@@ -89,14 +89,16 @@ list the plugin does not support that statement type.
 
 ```json
 {
-	"database_name": "admin",
-	"roles": [{
-		"databaseName": "admin",
-		"roleName": "atlasAdmin"
-	},
-  {
-    "collectionName": "acollection",
-    "roleName": "read"
-  }]
+  "database_name": "admin",
+  "roles": [
+    {
+      "databaseName": "admin",
+      "roleName": "atlasAdmin"
+    },
+    {
+      "collectionName": "acollection",
+      "roleName": "read"
+    }
+  ]
 }
 ```
