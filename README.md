@@ -14,8 +14,8 @@ Bugs should be filed under the Issues section of the Vault repo - https://github
 Feature requests can be submitted at https://feedback.mongodb.com/forums/924145-atlas - just select the Vault plugin as the category or vote for an already suggested feature.
 
 ## Quick Links
-- [Database Secrets Engine for MongoDB Atlas - Docs](https://www.vaultproject.io/docs/secrets/databases/mongodbatlas)
-- [Database Secrets Engine for MongoDB Atlas - API Docs](https://www.vaultproject.io/api-docs/secret/databases/mongodbatlas/)
+- [Database Secrets Engine for MongoDB Atlas - Docs](https://www.vaultproject.io/docs/secrets/databases/mongodbatlas) NOT LIVE till GA, Vault 1.4 GA TBD by HashiCorp, see website/source for beta website docs
+- [Database Secrets Engine for MongoDB Atlas - API Docs](https://www.vaultproject.io/api-docs/secret/databases/mongodbatlas/) NOT LIVE till GA, Vault 1.4 GA TBD by HashiCorp, see website/source for beta website docs
 - [MongoDB Atlas Website](https://www.mongodb.com/cloud/atlas)
 - [Vault Website](https://www.vaultproject.io)
 
